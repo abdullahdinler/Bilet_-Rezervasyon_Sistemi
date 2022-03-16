@@ -22,7 +22,7 @@ namespace Bilet__Rezervasyon_Sistemi
             listBox1.Items.Add("Uçuş Bilgileri: " + "Rota: " + comboBox1.Text + " - " + comboBox2.Text + " " + "Tarih - Saat: " + dateTimePicker1.Text + " " + maskedTextBox1.Text
             + " ///" + " Yolcu Bilgileri: " + "Adı Soyadı: " + textBox1.Text + " " + "T.C: " + textBox2.Text + " " + "Telefon: " + maskedTextBox2.Text
 
-            );ssss
+            );
             dateTimePicker1.ResetText();
             maskedTextBox1.Clear();
             maskedTextBox2.Clear();
